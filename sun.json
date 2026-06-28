@@ -1,0 +1,382 @@
+{
+  "id": "sun-vividvoid",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@vividvoid_ Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_7c3a328fd21b",
+    "display_name": "vividvoid_",
+    "user_id": "@vividvoid_",
+    "description": "Community Archive-derived proof-of-search sun for @vividvoid_.",
+    "document_count": 57755,
+    "word_count": 872899,
+    "active_days": 1387,
+    "emissions": [
+      "Good",
+      "Love",
+      "Think",
+      "Don",
+      "See",
+      "Yeah"
+    ],
+    "generated_at": "2026-06-28T22:19:26.187336+00:00",
+    "color": "#f59e0b",
+    "mass": 13.68
+  },
+  "planets": [
+    {
+      "id": "planet_e8e15fe69d84",
+      "name": "Good",
+      "summary": "Archive cluster around good: 49730 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "morning",
+        "night",
+        "too",
+        "love"
+      ],
+      "artifacts": [
+        {
+          "id": "art_bb6f408aa2a3",
+          "title": "Good receipt from 2024-07-11",
+          "excerpt": "https://t.co/dzO8pgFcRD",
+          "source_document_id": "1811513430999712195",
+          "timestamp": "2024-07-11T21:30:32+00:00",
+          "url": "https://x.com/vividvoid_/status/1811513430999712195",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, morning, night, too."
+        },
+        {
+          "id": "art_05d6f47c7361",
+          "title": "Good receipt from 2024-06-10",
+          "excerpt": "https://t.co/UkBrHQs6eS",
+          "source_document_id": "1800279286106243521",
+          "timestamp": "2024-06-10T21:30:04+00:00",
+          "url": "https://x.com/vividvoid_/status/1800279286106243521",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, morning, night, too."
+        },
+        {
+          "id": "art_5823ea4e37bb",
+          "title": "Good receipt from 2024-08-12",
+          "excerpt": "https://t.co/TkLI0I55t0 https://t.co/LMQEB9DSlS",
+          "source_document_id": "1823082515600482358",
+          "timestamp": "2024-08-12T19:41:57+00:00",
+          "url": "https://x.com/vividvoid_/status/1823082515600482358",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, morning, night, too."
+        },
+        {
+          "id": "art_fe7a9cf15da8",
+          "title": "Good receipt from 2023-12-29",
+          "excerpt": "gm https://t.co/g2adKjsds2",
+          "source_document_id": "1740773561130987773",
+          "timestamp": "2023-12-29T16:35:33+00:00",
+          "url": "https://x.com/vividvoid_/status/1740773561130987773",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, morning, night, too."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_827353ccbe50",
+      "proof_score": 1,
+      "mass": 40.283,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_a9ac79a165bf",
+      "name": "Love",
+      "summary": "Archive cluster around love: 1419 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "love",
+        "don",
+        "think",
+        "see",
+        "too"
+      ],
+      "artifacts": [
+        {
+          "id": "art_73af0c96f903",
+          "title": "Love receipt from 2024-09-19",
+          "excerpt": "Every now and then I look at the way sidewalks are slightly pitched for drainage, and I remember there are thousands of little details like this hidden in plain sight - incalculable love and effort that past generations put into improving life that we now benefit from",
+          "source_document_id": "1836760980014973330",
+          "timestamp": "2024-09-19T13:35:17+00:00",
+          "url": "https://x.com/vividvoid_/status/1836760980014973330",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, don, think, see."
+        },
+        {
+          "id": "art_2617d7a595e0",
+          "title": "Love receipt from 2024-07-29",
+          "excerpt": "Selfishness literally makes you dumber. The more time you spend withdrawn into dead-end internal fantasy, the less time you spend observing the world &amp; synthesizing knowledge that benefits you &amp; the people who love you.\n\nGet over yourself! Quickly! You're running out of time!",
+          "source_document_id": "1817981687877484935",
+          "timestamp": "2024-07-29T17:53:05+00:00",
+          "url": "https://x.com/vividvoid_/status/1817981687877484935",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, don, think, see."
+        },
+        {
+          "id": "art_d090f90e1b2b",
+          "title": "Love receipt from 2024-01-30",
+          "excerpt": "･ *ﾟ\n　 everything becomes dust\n     ･｡     \n   *･｡\n      and yet we love\n           ｡･\n              °*. ﾟ\n                   and yet we dance \n                      ﾟ*.\n                 ｡｡ ･\n             ｡ ･ﾟ\n       ｡°*.\n   ｡*･｡ https://t.co/eFSB3PWsrS",
+          "source_document_id": "1752400321891184782",
+          "timestamp": "2024-01-30T18:36:09+00:00",
+          "url": "https://x.com/vividvoid_/status/1752400321891184782",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, don, think, see."
+        },
+        {
+          "id": "art_9f9606ac0bba",
+          "title": "Love receipt from 2024-08-15",
+          "excerpt": "Men don't need to \"rediscover\" masculinity, we have been perennially obligated to some form of it by civilization and love, for all of history. It is a simple calculus: if we stop performing our culturally prescribed roles, women do not have a safe, prosperous world to live in.… https://t.co/C3hHDVJgIP",
+          "source_document_id": "1824068120555786626",
+          "timestamp": "2024-08-15T12:58:24+00:00",
+          "url": "https://x.com/vividvoid_/status/1824068120555786626",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, don, think, see."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_f87f5a8e44f1",
+      "proof_score": 1,
+      "mass": 31.746,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_1ab1db8f6c6a",
+      "name": "Think",
+      "summary": "Archive cluster around think: 2219 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "don",
+        "lot",
+        "really",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a65325ce2fd9",
+          "title": "Think receipt from 2024-06-09",
+          "excerpt": "I think cruelty is the most obvious tell of poor intelligence",
+          "source_document_id": "1799916107148779748",
+          "timestamp": "2024-06-09T21:26:55+00:00",
+          "url": "https://x.com/vividvoid_/status/1799916107148779748",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, lot, really."
+        },
+        {
+          "id": "art_48fc04f197bd",
+          "title": "Think receipt from 2024-07-10",
+          "excerpt": "I'm starting to think that \"psychics\" were hypersensitive children with unpredictable parents who had to become Michelangelos of people pleasing, so now they have superhuman abilities to read and anticipate nonverbal cues. It's like a pre-scientific outsider cottage psychotherapy",
+          "source_document_id": "1811091535779201079",
+          "timestamp": "2024-07-10T17:34:05+00:00",
+          "url": "https://x.com/vividvoid_/status/1811091535779201079",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, lot, really."
+        },
+        {
+          "id": "art_ef031957b851",
+          "title": "Think receipt from 2023-05-29",
+          "excerpt": "I think women would like to compliment men more often, but given how few we already get, it's kind of like feeding a starving animal. There's a risk of getting mauled. https://t.co/3PWsSlKtSM",
+          "source_document_id": "1663243121575215104",
+          "timestamp": "2023-05-29T17:57:16+00:00",
+          "url": "https://x.com/vividvoid_/status/1663243121575215104",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, lot, really."
+        },
+        {
+          "id": "art_097093ad63b1",
+          "title": "Think receipt from 2022-11-27",
+          "excerpt": "The real winning move is recognizing that if someone is repeating pre-chewed opinions, they're *anxious*. \n\nSo you have an opportunity to be kind and change the subject to smth that's personally meaningful to them.\n\nIf you do that, they'll tell you everything they really think.",
+          "source_document_id": "1596960754577833986",
+          "timestamp": "2022-11-27T20:14:48+00:00",
+          "url": "https://x.com/vividvoid_/status/1596960754577833986",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, lot, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_1a6b04c5f27c",
+      "proof_score": 1,
+      "mass": 33.481,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_bcc119b672a7",
+      "name": "Don",
+      "summary": "Archive cluster around don: 1695 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "want",
+        "need",
+        "see"
+      ],
+      "artifacts": [
+        {
+          "id": "art_18baedb18dbd",
+          "title": "Don receipt from 2023-11-29",
+          "excerpt": "The thing about Adderall and other stimulants is that they don't actually give you focus. What they do is chemically numb the separation you feel from your work, so it becomes bearable. They're an emotional analgesic - not artificial concentration, but a pharmaceutical merger of… https://t.co/S7HeUkJM0d",
+          "source_document_id": "1729926027621863563",
+          "timestamp": "2023-11-29T18:11:20+00:00",
+          "url": "https://x.com/vividvoid_/status/1729926027621863563",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, need."
+        },
+        {
+          "id": "art_ab8e8fb6bfbe",
+          "title": "Don receipt from 2022-11-27",
+          "excerpt": "Once again: There's no such thing as an NPC. Talk with any \"normie\" for 10m. They're perfectly capable of thinking for themselves. \n\nThey just don't find independent thought as *meaningful* as well-worn discourse grooves, because social pressures are highly emotional for them.",
+          "source_document_id": "1596960737561567232",
+          "timestamp": "2022-11-27T20:14:44+00:00",
+          "url": "https://x.com/vividvoid_/status/1596960737561567232",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, need."
+        },
+        {
+          "id": "art_b67c04944e98",
+          "title": "Don receipt from 2024-03-20",
+          "excerpt": "I don't know how anyone could look at the insane, tragic condition of contemporary sexual relations and conclude there's anything for men and women to do but try and forgive each other",
+          "source_document_id": "1770252123944747153",
+          "timestamp": "2024-03-20T00:52:50+00:00",
+          "url": "https://x.com/vividvoid_/status/1770252123944747153",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, need."
+        },
+        {
+          "id": "art_82e550a3bac5",
+          "title": "Don receipt from 2022-01-28",
+          "excerpt": "I don't know if there's a word for this, but one of the most manipulative and crazymaking things people do goes like this: \n\n1. They wrong you\n2. You become justifiably angry\n3. They act like your anger has victimized them\n4. Now you're the bad guy",
+          "source_document_id": "1487114351718797313",
+          "timestamp": "2022-01-28T17:24:25+00:00",
+          "url": "https://x.com/vividvoid_/status/1487114351718797313",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, need."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ca9178d727c4",
+      "proof_score": 1,
+      "mass": 32.212,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_aee026f86949",
+      "name": "See",
+      "summary": "Archive cluster around see: 736 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "see",
+        "time",
+        "really",
+        "want",
+        "know"
+      ],
+      "artifacts": [
+        {
+          "id": "art_eae58f6b7cf6",
+          "title": "See receipt from 2024-05-22",
+          "excerpt": "We didn't kill God. We just took him apart to see how He worked and now we're putting Him back together",
+          "source_document_id": "1793408572560417181",
+          "timestamp": "2024-05-22T22:28:18+00:00",
+          "url": "https://x.com/vividvoid_/status/1793408572560417181",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, time, really, want."
+        },
+        {
+          "id": "art_c5b97f5cc1c7",
+          "title": "See receipt from 2023-10-07",
+          "excerpt": "When we see images of bloodshed and atrocity, it's deeply human for our passions to stir. I know this intimately: 9/11 and the War on Terror were two of the primary reasons I joined the Marines as a young man. War is a natural disaster; a kind of spiritual tempest that darkens… https://t.co/hiCs4h1wKr",
+          "source_document_id": "1710766446320742470",
+          "timestamp": "2023-10-07T21:17:59+00:00",
+          "url": "https://x.com/vividvoid_/status/1710766446320742470",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, time, really, want."
+        },
+        {
+          "id": "art_163b409db0ee",
+          "title": "See receipt from 2023-09-19",
+          "excerpt": "Maybe the dark night of the soul is a brief adjustment period for eyes that are learning to see the void",
+          "source_document_id": "1704182001648161137",
+          "timestamp": "2023-09-19T17:13:46+00:00",
+          "url": "https://x.com/vividvoid_/status/1704182001648161137",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, time, really, want."
+        },
+        {
+          "id": "art_49406624ef4a",
+          "title": "See receipt from 2023-05-18",
+          "excerpt": "Hey anon, you're finally awake!\n\nWhat's that? AGI? Climate Change? Culture War? Whoa, pretty intense dreams, huh?\n\nCome on, we're going to the tidepools, Carl found a really big sea anemone, we're gonna see if we can tickle it til it poops https://t.co/D3GkInEfF2",
+          "source_document_id": "1659246769434415104",
+          "timestamp": "2023-05-18T17:17:11+00:00",
+          "url": "https://x.com/vividvoid_/status/1659246769434415104",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, time, really, want."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_c2748bfe4918",
+      "proof_score": 1,
+      "mass": 29.882,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_1860adf317d6",
+      "name": "Yeah",
+      "summary": "Archive cluster around yeah: 1956 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "yeah",
+        "hell",
+        "too",
+        "great",
+        "taalumot"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0fbf1e1541e4",
+          "title": "Yeah receipt from 2023-12-09",
+          "excerpt": "gm, it's my birthday, I'm going to eat everything in this town \n\nCan I get a hell yeah in the chat https://t.co/qpPBf3h4is",
+          "source_document_id": "1733549058634215680",
+          "timestamp": "2023-12-09T18:07:58+00:00",
+          "url": "https://x.com/vividvoid_/status/1733549058634215680",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, hell, too, great."
+        },
+        {
+          "id": "art_0a968b7e869b",
+          "title": "Yeah receipt from 2023-07-31",
+          "excerpt": "Hell yeah it is https://t.co/5KjumPEHdC",
+          "source_document_id": "1686138201940058114",
+          "timestamp": "2023-07-31T22:14:08+00:00",
+          "url": "https://x.com/vividvoid_/status/1686138201940058114",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, hell, too, great."
+        },
+        {
+          "id": "art_8993386707b4",
+          "title": "Yeah receipt from 2022-09-21",
+          "excerpt": "Gm can I get a hell yeah in the chat https://t.co/OqWwEWydDv",
+          "source_document_id": "1572607722188869634",
+          "timestamp": "2022-09-21T15:24:33+00:00",
+          "url": "https://x.com/vividvoid_/status/1572607722188869634",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, hell, too, great."
+        },
+        {
+          "id": "art_ebcb2260e1cf",
+          "title": "Yeah receipt from 2022-10-17",
+          "excerpt": "I'm no great fan of capitalism, but 9/10 of its critics on this site are in fact mad at \"human greed,\" which will occur in any system \n\nIf you want stronger accountability for industry, hell yeah, lfg, theres a lot of work to do\n\nBut let's be clear abt what we're up against",
+          "source_document_id": "1581818005889372160",
+          "timestamp": "2022-10-17T01:22:56+00:00",
+          "url": "https://x.com/vividvoid_/status/1581818005889372160",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, hell, too, great."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_3a287215a5a8",
+      "proof_score": 1,
+      "mass": 29.284,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}

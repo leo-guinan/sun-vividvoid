@@ -1,0 +1,18 @@
+{
+  "schema": "community-solar-archive-parts/v0",
+  "original_path": "data/archive.json",
+  "original_bytes": 131342430,
+  "part_size_bytes": 94371840,
+  "parts": [
+    {
+      "path": "data/archive.json.parts/archive.json.part000",
+      "bytes": 94371840
+    },
+    {
+      "path": "data/archive.json.parts/archive.json.part001",
+      "bytes": 36970590
+    }
+  ],
+  "reconstruct_command": "python3 scripts/reconstruct_archive.py",
+  "reason": "GitHub rejects normal git blobs above 100 MiB; this repo stores raw archive.json as ordered parts."
+}
